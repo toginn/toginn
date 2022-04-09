@@ -5,6 +5,6 @@
 
 ### Links
 
-* Homepage: [https://toginn.com (Not ready for now.)](https://toginn.com)
+* Homepage: [https://toginn.com](https://toginn.com) (Not ready for now.)
 * Twitter: [@togin_n](https://twitter.com/togin_n)
 * Qiita: [@toginn](https://qiita.com/toginn)
