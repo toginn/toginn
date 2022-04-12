@@ -8,6 +8,8 @@
 
 ### Links
 
-* Homepage: [https://toginn.com](https://toginn.com) (Not ready for now.)
+* Homepage: [https://toginn.com](https://toginn.com)
 * Twitter: [@togin_n](https://twitter.com/togin_n)
 * Qiita: [@toginn](https://qiita.com/toginn)
+* LinkedIn: [toginn](https://linkedin.com/in/toginn)
+* Wantedly: [toginn](https://wantedly.com/id/toginn)
