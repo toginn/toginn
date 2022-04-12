@@ -13,3 +13,4 @@
 * Qiita: [@toginn](https://qiita.com/toginn)
 * LinkedIn: [toginn](https://linkedin.com/in/toginn)
 * Wantedly: [toginn](https://wantedly.com/id/toginn)
+* Mail: toginn@outlook.jp
