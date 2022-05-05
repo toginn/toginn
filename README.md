@@ -3,6 +3,8 @@
 ![](https://github.com/toginn/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/toginn/github-stats/blob/master/generated/languages.svg)
 
+[![wakatime](https://wakatime.com/badge/user/9eb6e8e0-6afa-40a9-b406-12cf7b8c4668.svg)](https://wakatime.com/@9eb6e8e0-6afa-40a9-b406-12cf7b8c4668)
+
 * Language: TypeScript, Python, PHP
 * Framework: React, Next.js, Express.js
 
